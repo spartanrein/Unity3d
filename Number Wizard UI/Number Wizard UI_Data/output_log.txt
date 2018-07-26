@@ -1,0 +1,40 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+desktop: 3440x1440 100Hz; virtual: 3440x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\deguz\repos\Unity\Number Wizard UI\Number Wizard UI_Data\Managed\System.dll (this message is harmless)
+Level Load requested for :Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 7.244475 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 0.760243 ms (FindLiveObjects: 0.006649 ms CreateObjectMapping: 0.004432 ms MarkObjects: 0.088658 ms  DeleteObjects: 0.001939 ms)
+
+Level Load requested for :Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.342441 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 0.718130 ms (FindLiveObjects: 0.004155 ms CreateObjectMapping: 0.004155 ms MarkObjects: 0.078684 ms  DeleteObjects: 0.001385 ms)
+
